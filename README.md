@@ -1,4 +1,4 @@
-### Hello! My name is Aaro. I'm a learning programmer in Gradia Viitaniemi
+### Hello! My name is Aaro.
 
 <!--
 **AaroOkkola/AaroOkkola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
